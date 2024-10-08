@@ -1,4 +1,3 @@
-// 8-clean_set.js
 const cleanSet = (set, startString) => {
   if (startString === '') return '';
 
